@@ -1,5 +1,5 @@
 psycopg2==2.5.1
-git+https://github.com/hamperbot/hamper.git
+git+https://github.com/hamperbot/hamper.git#6674db62bb4d6115a4c3ebdb0e4b8def7cb48b3c
 git+https://github.com/dean/hamper-remindme.git
 git+https://github.com/dean/hamper-pizza.git
 git+https://github.com/hamperbot/factoids2.git
