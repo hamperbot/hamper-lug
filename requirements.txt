@@ -1,6 +1,6 @@
 psycopg2==2.5.1
 
-https://github.com/hamperbot/factoids2/archive/15a7efb16123388644477501c287d1638c061079.zip
-https://github.com/hamperbot/hamper/archive/6674db62bb4d6115a4c3ebdb0e4b8def7cb48b3c.zip
+https://github.com/hamperbot/factoids2/archive/v0.2.zip
+https://github.com/hamperbot/hamper/archive/v1.0.zip
 https://github.com/dean/hamper-remindme/archive/master.zip
 https://github.com/dean/hamper-pizza/archive/master.zip
